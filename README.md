@@ -22,7 +22,7 @@
      Once you have SSH into your instance, type in the following:  
      ```$ sudo -u postgres psql postgres```  
      Then, in the psql terminal, type in the following:
-     ```$ \password postgres```  
+     ```$ \password postgres``` - where *postgres* is the name of the user for which you are setting the password
    * Enter your desired password and reconfirm. You can disconnect from your SSH afterwards. Now, with any SQL client of your choice, you can now connect to the database with the following credentials:
      
      Host: **insert droplet ip address**
