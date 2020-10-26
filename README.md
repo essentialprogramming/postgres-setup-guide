@@ -5,7 +5,6 @@
    https://marketplace.digitalocean.com/apps/supabase-postgres 
    * You can also create a postgres droplet by clicking the green Create button from right side.  
    After clicking Droplet item from list choose Marketplace and search for ***supabase-postgres*** keyword in the *Search keyword* text box.
-    ![Create](essentialprogramming-api/src/main/resources/img/createDroplet.png)
  
 2. ##### Setting up the droplet
    * Once the Droplet has been created, it will have an IP address.  
